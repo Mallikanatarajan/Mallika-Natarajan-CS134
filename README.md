@@ -1,2 +1,3 @@
 # Mallika-Natarajan-CS134
-Main project repository for CS 134.
+Mallika Natarajan
+This repository will house my project development milestones.
